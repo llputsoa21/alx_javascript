@@ -6,4 +6,5 @@ class Rectangle {
         this.heught = h;
     };
 };
-module.exports = Rectangle
+module.exports = Rectangle;
+
