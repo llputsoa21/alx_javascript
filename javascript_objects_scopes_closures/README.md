@@ -1,0 +1,1 @@
+class notation for defining my empty rectangle class
