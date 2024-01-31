@@ -1,3 +1,4 @@
+#!/usr/bin/node
 //Class rectangle that is initialized by the following constructors
 
 class Rectangle{
