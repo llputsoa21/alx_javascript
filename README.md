@@ -1,2 +1,2 @@
 # alx_javascript
-JavaScript Repository
+JavaScript introduction Repository
