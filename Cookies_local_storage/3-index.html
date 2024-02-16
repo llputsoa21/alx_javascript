@@ -1,0 +1,47 @@
+<!-- Create HTML page with DOM effect -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cookie Example</title>
+    <style>
+        #loginForm {
+            display: block;
+        }
+
+        #welcomeMessage {
+            display: none;
+            font-weight: bold;
+        }
+
+        #logout {
+            font-weight: normal;
+            font-style: italic;
+            margin-left: 10px;
+        }
+
+        button {
+            font-size: 18px;
+            background-color: #fff;
+            border: 2px solid #eee;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="loginForm">
+        <h1>Login to the website</h1>
+        <input type="text" id="firstname" placeholder="Enter First Name">
+        <input type="text" id="email" placeholder="Enter Email">
+        <button id="loginBtn">Log me in</button>
+    </div>
+    <div id="welcomeMessage"></div>
+
+    <script src="src/index.js"></script>
+</body>
+
+</html>

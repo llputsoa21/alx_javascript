@@ -1,0 +1,1 @@
+Creating the HTML page with DOM effect
